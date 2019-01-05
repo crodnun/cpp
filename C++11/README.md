@@ -9,4 +9,4 @@ g++ -std=c++11 -o test <fichero>.cpp
 
 TODO
 
-http://www.cplusplus.com/doc/tutorial/arrays/
+http://www.cplusplus.com/doc/tutorial/pointers/
