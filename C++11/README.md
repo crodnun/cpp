@@ -4,5 +4,9 @@ Each .cpp file is a single example of C++ features. You can compile them using g
 
 
 ```
-g++ -o test <fichero>.cpp
+g++ -std=c++11 -o test <fichero>.cpp
 ```
+
+TODO
+
+http://www.cplusplus.com/doc/tutorial/arrays/
